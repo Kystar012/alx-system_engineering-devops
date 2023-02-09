@@ -12,3 +12,4 @@ script creating dir with permission 751
 changingownership and group ownership
 #script to change ownersgip of symlinks
 change ownership of a file if the destination file is owned by <name>
+playing star wars on terminal
