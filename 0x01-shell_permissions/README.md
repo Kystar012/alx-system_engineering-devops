@@ -10,3 +10,4 @@
 script creating dir with permission 751
 #changing group owner
 changingownership and group ownership
+#script to change ownersgip of symlinks
