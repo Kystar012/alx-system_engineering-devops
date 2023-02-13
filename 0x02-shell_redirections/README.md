@@ -13,4 +13,8 @@
 <th>scripts </th>
 <th>what does the script do</th></tr>
 <tr><td>#!/bin/bash<br> echo hello world</td><td>The script displays "hello world" to the  std output.</td></tr>
-
+<tr><td> #!/bin/bash<br>cat /ect/passwd </td><td>dispays the content of a file,/etc/passwd</td></tr>
+<tr><td> #!/bin/bash<br>cat /etc/passwd /etchosts</td><td> displays content of two files</td></tr>
+<tr><td>#!/bin/bash<br>tail -10 /etc/passwd</td><td>The script lists the last 10 lines of the file /etc/passwd.</td></tr>
+<tr><td>#!/bin/bash<br>head -n 10 /etc/passwd<td><td>Lists the first 10 lines of the file /etc/passwd</td></tr>
+<tr><td>#!/bin/bash<br>echo "Best School" > \*\\'\"Best School"\'\\*$\?\*\*\*\*\*:\)\ <td><td>The script creates a file specified and echos the line into the file</td><tr>
