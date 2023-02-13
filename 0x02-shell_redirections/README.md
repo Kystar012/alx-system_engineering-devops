@@ -18,3 +18,9 @@
 <tr><td>#!/bin/bash<br>tail -10 /etc/passwd</td><td>The script lists the last 10 lines of the file /etc/passwd.</td></tr>
 <tr><td>#!/bin/bash<br>head -n 10 /etc/passwd<td><td>Lists the first 10 lines of the file /etc/passwd</td></tr>
 <tr><td>#!/bin/bash<br>echo "Best School" > \*\\'\"Best School"\'\\*$\?\*\*\*\*\*:\)\ <td><td>The script creates a file specified and echos the line into the file</td><tr>
+<tr><td>#!/bin/bash<br>echo \"\(\Ôo\)\'\ </td><td> The script echos the confused smily face to the stdoutput</td></tr>
+<tr><td>#!/bin/bash<br>head -3 iacta | tail -1 iacta</td>
+<td>The script displays the third line of file iacta</td></tr>
+<tr><td>#!/bin/bash<br>tail -1 iacta >> iacta</td><td>The script duplicates the last line of file iacta</td></tr>
+<tr><td>#!/bin/bash<br>find . -type f -name *.js  -delete </td><td> <td>The script deletes all .js files in tge directory and sundirectory</td></tr>
+<tr><td>
