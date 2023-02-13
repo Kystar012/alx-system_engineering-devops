@@ -12,4 +12,6 @@ script creating dir with permission 751
 changingownership and group ownership
 #script to change ownersgip of symlinks
 change ownership of a file if the destination file is owned by <name>
-playing star wars on terminal
+<tr><td>ln blinkenlights.ls</td><td>playing star wars on terminal.</td></tr>
+</table>
+</p></body></html>
