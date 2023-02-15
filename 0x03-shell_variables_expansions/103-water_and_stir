@@ -1,0 +1,3 @@
+#!/bin/bash
+VAR=$((water#WATER+stir#STIR))
+printf "%bestchol\n" $VAR
