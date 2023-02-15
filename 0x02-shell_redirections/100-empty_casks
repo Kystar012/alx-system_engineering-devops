@@ -1,2 +1,2 @@
 #!/bib/bash
-find ./ -type f,d -empty
+find ./ -type f,d -empty | ls -alR
